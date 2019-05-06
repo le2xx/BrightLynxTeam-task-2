@@ -1,5 +1,5 @@
 const content = () => {
-  const form = document.getElementById('form');
+  const form = document.querySelector('.content');
   const input = form.querySelector('.content__input');
   const button = form.querySelector('.content__btn');
 
